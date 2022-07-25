@@ -23,7 +23,7 @@ SDDM is an acronym for "Simple Desktop Display Manager". It is a [display manage
 
 ### 🐛 Dependencies
 
-- [`SDDM` >= 0.18.0](https://github.com/sddm/sddm)
+- [SDDM >= 0.18.0](https://github.com/sddm/sddm)
 - [Qt5 >= 5.11.0](https://doc.qt.io/qt-5/index.html)
 - [Qt5-quickcontrols2 >= 5.11.0](https://doc.qt.io/qt-5/qtquickcontrols-index.html)
 - [Qt5-quickcontrols2 >= 5.11.0](https://doc.qt.io/qt-5/qtquickcontrols-index.html)
@@ -47,8 +47,14 @@ SDDM is an acronym for "Simple Desktop Display Manager". It is a [display manage
 
 ### 🌟 Showcase
 
-![Preview 1](./Previews/preview-1.png)
-![Preview 2](./Previews/preview-2.png)
+| Theme                                          | Preview                                                                                                                | Background image credit                                                             |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [🍂](./autumn-hogwarts/) Autumn Hogwarts       | ![P1](./autumn-hogwarts/Previews/preview-hpah-1.png) <br> ![P2](./autumn-hogwarts/Previews/preview-hpah-2.png)         | [Artstation - Jerome Comentale](https://www.artstation.com/artwork/J9g2YR)          |
+| [🏫](./back-at-hogwarts/) Back at Hogwarts     | ![P1](./back-at-hogwarts/Previews/preview-hpbah-1.png) <br> ![P2](./back-at-hogwarts/Previews/preview-hpbah-2.png)     | [Artstation - Jakob Vandenabeele](https://www.artstation.com/artwork/e0rOgw)        |
+| [🐍](./chamber-of-secrets/) Chamber of secrets | ![P1](./chamber-of-secrets/Previews/preview-hpcof-1.png) <br> ![P2](./chamber-of-secrets/Previews/preview-hpcof-2.png) | [Artstation - Vladislav Pantic](https://www.artstation.com/artwork/5XnNNW)          |
+| [🌲](./forest-hogwarts/) Forest Hogwarts       | ![P1](./forest-hogwarts/Previews/preview-hpfh-1.png) <br> ![P2](./forest-hogwarts/Previews/preview-hpfh-2.png)         | [Artstation - Samantha Chow](https://www.artstation.com/artwork/Dx6NQE)             |
+| [📚](./hogwarts-library/) Hogwarts Library     | ![P1](./hogwarts-library/Previews/preview-hphl-1.png) <br> ![P2](./hogwarts-library/Previews/preview-hphl-2.png)       | [Artstation - Jefferson Bacquey Habrylo](https://www.artstation.com/artwork/X1nNx0) |
+| [📐](./poly-hogwarts/) Poly Hogwarts           | ![P1](./poly-hogwarts/Previews/preview-hpph-1.png) <br> ![P2](./poly-hogwarts/Previews/preview-hpph-2.png)             | [Artstation - Björn Kiefer](https://www.artstation.com/artwork/XnzJRY)              |
 
 ### 👥 Credits
 
