@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Hogwarts SDDM Theme
+Description=Draco dormiens nunquam titillandus
+Author=Carmoruda
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/Carmoruda/hogwarts-dark
+Screenshot=Previews/preview-1.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=hogwarts-theme
