@@ -37,7 +37,7 @@ SDDM is an acronym for "Simple Desktop Display Manager". It is a [display manage
    sudo git clone https://github.com/carmoruda/sddm-hogwarts-themes.git /usr/share/sddm/themes
    ```
 
-2. Then edit `/etc/sddm.conf`, so that it looks like this (example for [Autumn Hogwarts](./autumn-hogwarts/):
+2. Then edit `/etc/sddm.conf`, so that it looks like this (example for [Autumn Hogwarts](./autumn-hogwarts/)):
 
    ```conf
     [Theme]
